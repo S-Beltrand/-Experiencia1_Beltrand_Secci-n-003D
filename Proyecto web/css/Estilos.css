@@ -23,6 +23,16 @@ nav.lol{
     min-height: 600px;
     text-align: center;
 }
+.foto img{
+    width: 100%;
+    height: 100%;
+}
+.foto{
+    max-width: 500px;
+    display:block;
+    margin:auto;
+    max-height: 280px;
+}
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background: #232526;  /* fallback for old browsers */
