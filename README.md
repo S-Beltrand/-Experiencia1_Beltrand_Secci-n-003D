@@ -1,2 +1,2 @@
-# -Experiencia1_Beltrand_Secci-n-003D
+# -Experiencia1_Beltrand_Sección-003D
 Proyecto semestral
